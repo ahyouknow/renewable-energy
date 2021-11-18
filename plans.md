@@ -3,23 +3,24 @@
 ## Teams
 
 ### Arduino - Adam
-* Adison
-* Amolak
-* Aria
-* David
+* Adison Guo
+* Amolak Virk
+* Aria Holmes
+* David Gotler
 * Leo 
-* Tracy
+* Tracy Zhao
+* Anthony Guerrera
 
 ### Python - David
 * Adam
 * Aron 
 * Brandon
 * Fiona
-* Jiayang
+* Jiayang Chen
 * Justin
-* Lucy
-* Srinut
-* Tracy
+* Lucy Kaff
+* Srinath Saikrishnan
+* Tracy Zhao
 
 ## Arduino Supplies
 
